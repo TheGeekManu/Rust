@@ -1,0 +1,1 @@
+/home/gamer/Rust/recent/bitwise_operations/bitwise_rightshift/bitwise_rightshift/target/debug/bitwise_rightshift: /home/gamer/Rust/recent/bitwise_operations/bitwise_rightshift/bitwise_rightshift/src/main.rs

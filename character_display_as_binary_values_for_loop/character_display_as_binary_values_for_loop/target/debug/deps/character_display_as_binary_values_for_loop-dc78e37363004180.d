@@ -1,0 +1,5 @@
+/home/gamer/Rust/recent/character_display_as_binary_values_for_loop/character_display_as_binary_values_for_loop/target/debug/deps/character_display_as_binary_values_for_loop-dc78e37363004180: src/main.rs
+
+/home/gamer/Rust/recent/character_display_as_binary_values_for_loop/character_display_as_binary_values_for_loop/target/debug/deps/character_display_as_binary_values_for_loop-dc78e37363004180.d: src/main.rs
+
+src/main.rs:
